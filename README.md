@@ -25,7 +25,7 @@ A **simple and interactive Library Management System** written in **Bash**. This
 2. Choose an Option from the menu:
    - **Add a Book** → Enter a book name to add.
    - **Remove a Book** → Enter a book name to remove.
-   - **List All Books ** → Shows available books.
+   - **List All Books** → Shows available books.
    - **Register a Student** → Enter student name.
    - **Borrow a Book** → Removes it from the available list.
    - **View Borrowed Books** → Lists borrowed books.
