@@ -32,8 +32,15 @@ A **simple and interactive Library Management System** written in **Bash**. This
    - **Exit** → Quit the system.
 
 
+## Example : 
+![mini_lib](https://github.com/user-attachments/assets/5e0c7fa0-2cda-4745-9599-f351abb4a370)
 
 
+## 🛠️ Installation & Usage
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/yourusername/library-management-bash.git
+cd library-management-bash
 
 
 
