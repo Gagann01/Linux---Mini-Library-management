@@ -14,4 +14,37 @@ A **simple and interactive Library Management System** written in **Bash**. This
 - 🔍 **View Borrowed Books**  
 - 📂 **Logs Actions** (stored in `log.txt`)  
 
+## 2️⃣ Give Execute Permissions
+- chmod +x library.sh
+
+## 3️⃣ Run the Script
+- ./mini_lib.sh
+
+## 📌 How It Works
+1. Enter a Library Name (creates a directory for the library).
+2. Choose an Option from the menu:
+   - **Add a Book** → Enter a book name to add.
+   - **Remove a Book** → Enter a book name to remove.
+   - **List All Books ** → Shows available books.
+   - **Register a Student** → Enter student name.
+   - **Borrow a Book** → Removes it from the available list.
+   - **View Borrowed Books** → Lists borrowed books.
+   - **Exit** → Quit the system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
