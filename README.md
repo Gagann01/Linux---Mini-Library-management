@@ -39,8 +39,8 @@ A **simple and interactive Library Management System** written in **Bash**. This
 ## 🛠️ Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Gagann01/library-management-bash.git
-cd library-management-bash
+git clone https://github.com/Gagann01/Linux---Mini-Library-management.git
+cd Linux---Mini-Library-management
 
 
 
